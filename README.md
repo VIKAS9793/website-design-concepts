@@ -4,15 +4,17 @@
 
 Each concept below is a working website for a fictional business. None of them start from a template or a look: each starts from a problem the business owner actually has, found through desk research, and every section of the site exists to answer a doubt that stops a customer from buying, booking or visiting.
 
-| | Business | The problem it solves | Built with | Links |
+| | Business | The problem it solves | Built with | See it |
 |---|---|---|---|---|
-| 1 | **The Sushi Slide**<br>Restaurant | Guests don’t know nigiri from maki, so they don’t know what to order, or whether to come at all | Astro, Tailwind | [Live](https://the-sushi-slide.netlify.app) · [Code](https://github.com/VIKAS9793/the-sushi-slide) · [Case study](https://github.com/VIKAS9793/the-sushi-slide/blob/main/docs/case-study.md) |
-| 2 | **Loomfell**<br>Hand-woven wool jackets | Shoppers can’t feel the cloth, judge warmth or trust the fit online | Astro | [Live](https://loomfell-woolens.netlify.app) · [Code](https://github.com/VIKAS9793/loomfell-woolens) · [Case study](https://github.com/VIKAS9793/loomfell-woolens/blob/main/docs/case-study.md) |
-| 3 | **Lintel & Lime**<br>Interior design studio | Homeowners can’t tell what a room will cost or how long it will take | Astro | [Live](https://lintel-and-lime.netlify.app) · [Code](https://github.com/VIKAS9793/lintel-and-lime) · [Case study](https://github.com/VIKAS9793/lintel-and-lime/blob/main/docs/case-study.md) |
-| 4 | **Teen Kona Chaat Bhandar**<br>Banaras street-food shop | Bulk orders lost in the evening rush, visitors arriving at the wrong hour, the shop hard to find | Astro, Hindi and English | [Live](https://teen-kona-chaat.netlify.app) · [Code](https://github.com/VIKAS9793/teen-kona-chaat) · [Case study](https://github.com/VIKAS9793/teen-kona-chaat/blob/main/docs/case-study.md) |
-| 5 | **Sthira Physiotherapy**<br>Physio clinic | Missed appointments, unknown total cost, home exercises abandoned | Next.js, React, TypeScript, Tailwind | [Live](https://sthira-physio.netlify.app) · [Code](https://github.com/VIKAS9793/sthira-physio) · [Case study](https://github.com/VIKAS9793/sthira-physio/blob/main/docs/case-study.md) |
+| 1 | **The Sushi Slide**<br>Restaurant | Guests don’t know nigiri from maki, so they don’t know what to order, or whether to come at all | Astro, Tailwind | **[Visit site](https://the-sushi-slide.netlify.app)** · [Case study](concepts/the-sushi-slide/case-study.md) |
+| 2 | **Loomfell**<br>Hand-woven wool jackets | Shoppers can’t feel the cloth, judge warmth or trust the fit online | Astro | **[Visit site](https://loomfell-woolens.netlify.app)** · [Case study](concepts/loomfell-woolens/case-study.md) |
+| 3 | **Lintel & Lime**<br>Interior design studio | Homeowners can’t tell what a room will cost or how long it will take | Astro | **[Visit site](https://lintel-and-lime.netlify.app)** · [Case study](concepts/lintel-and-lime/case-study.md) |
+| 4 | **Teen Kona Chaat Bhandar**<br>Banaras street-food shop | Bulk orders lost in the evening rush, visitors arriving at the wrong hour, the shop hard to find | Astro, Hindi and English | **[Visit site](https://teen-kona-chaat.netlify.app)** · [Case study](concepts/teen-kona-chaat/case-study.md) |
+| 5 | **Sthira Physiotherapy**<br>Physio clinic | Missed appointments, unknown total cost, home exercises abandoned | Next.js, React, TypeScript, Tailwind | **[Visit site](https://sthira-physio.netlify.app)** · [Case study](concepts/sthira-physio/case-study.md) |
 
-> All five businesses are fictional, made for this portfolio. Their names, products, prices and contact details are invented, and each site says so. The problems are real: each repository has a `docs/research.md` with the sources behind them.
+> **Start with the websites.** Each one is live: open it on your phone and judge how it explains the business to its own customers. Every screenshot below opens the live site.
+>
+> All five businesses are fictional, made for this portfolio. Their names, products, prices and contact details are invented, and each site says so. The problems are real: the research behind four of them, with sources, is in [`concepts/`](concepts/).
 
 ## How each concept is made
 
@@ -37,7 +39,7 @@ Each concept below is a working website for a fictional business. None of them s
 
 **Key decision:** education comes before the menu, so the dish names already make sense when guests reach them.
 
-[Live demo](https://the-sushi-slide.netlify.app) · [Code](https://github.com/VIKAS9793/the-sushi-slide) · [Case study](https://github.com/VIKAS9793/the-sushi-slide/blob/main/docs/case-study.md)
+**[Visit the website →](https://the-sushi-slide.netlify.app)** · [Case study](concepts/the-sushi-slide/case-study.md)
 
 ---
 
@@ -57,7 +59,7 @@ Each concept below is a working website for a fictional business. None of them s
 
 **Measured:** main content visible in 1.9 s on a throttled phone (down from 2.7 s after a performance pass).
 
-[Live demo](https://loomfell-woolens.netlify.app) · [Code](https://github.com/VIKAS9793/loomfell-woolens) · [Case study](https://github.com/VIKAS9793/loomfell-woolens/blob/main/docs/case-study.md)
+**[Visit the website →](https://loomfell-woolens.netlify.app)** · [Case study](concepts/loomfell-woolens/case-study.md) · [Research](concepts/loomfell-woolens/research.md)
 
 ---
 
@@ -77,7 +79,7 @@ Each concept below is a working website for a fictional business. None of them s
 
 **Measured:** main content visible in about 1 s on a throttled phone, with 2 KB of JavaScript.
 
-[Live demo](https://lintel-and-lime.netlify.app) · [Code](https://github.com/VIKAS9793/lintel-and-lime) · [Case study](https://github.com/VIKAS9793/lintel-and-lime/blob/main/docs/case-study.md)
+**[Visit the website →](https://lintel-and-lime.netlify.app)** · [Case study](concepts/lintel-and-lime/case-study.md) · [Research](concepts/lintel-and-lime/research.md)
 
 ---
 
@@ -97,7 +99,7 @@ Each concept below is a working website for a fictional business. None of them s
 
 **Measured:** main content visible in 0.9 s (Hindi) and 0.7 s (English) on a throttled phone.
 
-[Live demo](https://teen-kona-chaat.netlify.app) · [Code](https://github.com/VIKAS9793/teen-kona-chaat) · [Case study](https://github.com/VIKAS9793/teen-kona-chaat/blob/main/docs/case-study.md)
+**[Visit the website →](https://teen-kona-chaat.netlify.app)** · [Case study](concepts/teen-kona-chaat/case-study.md) · [Research](concepts/teen-kona-chaat/research.md)
 
 ---
 
@@ -117,7 +119,7 @@ Each concept below is a working website for a fictional business. None of them s
 
 **Measured:** main content visible in 0.65 s on a throttled phone.
 
-[Live demo](https://sthira-physio.netlify.app) · [Code](https://github.com/VIKAS9793/sthira-physio) · [Case study](https://github.com/VIKAS9793/sthira-physio/blob/main/docs/case-study.md)
+**[Visit the website →](https://sthira-physio.netlify.app)** · [Case study](concepts/sthira-physio/case-study.md) · [Research](concepts/sthira-physio/research.md)
 
 ---
 
