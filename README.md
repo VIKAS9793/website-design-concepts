@@ -10,13 +10,13 @@ Each website below was designed for a different kind of business, starting from 
 
 | If you run… | Your customers often ask… | See this website |
 |---|---|---|
-| A **restaurant, café or cloud kitchen** | “What is this dish? What should I order?” | **[The Sushi Slide](https://the-sushi-slide.netlify.app)**: a guide to the food before the menu, and ready-made first orders · [How it works](concepts/the-sushi-slide/case-study.md) |
-| A **clothing, handmade or craft brand** | “Is it really what you say? Will it fit? Is it worth the price?” | **[Loomfell](https://loomfell-woolens.netlify.app)**: honest labels, feel and warmth explained, a size guide, orders on WhatsApp · [How it works](concepts/loomfell-woolens/case-study.md) |
-| A **service business with quotes**: interiors, renovation, contracting, events | “What will it cost? How long will it take? Can I trust you?” | **[Lintel & Lime](https://lintel-and-lime.netlify.app)**: a cost estimator, past projects with real numbers, payments by stage · [How it works](concepts/lintel-and-lime/case-study.md) |
-| A **local shop with regulars**: sweets, snacks, street food, kirana | “Are you open now? Can you cater my function? Where exactly are you?” | **[Teen Kona Chaat Bhandar](https://teen-kona-chaat.netlify.app)**: what’s on now, bulk orders on WhatsApp, directions, Hindi and English · [How it works](concepts/teen-kona-chaat/case-study.md) |
-| An **appointment business**: clinic, salon, coaching, studio | “When can I come? What if I can’t make it? What will it cost?” | **[Sthira Physiotherapy](https://sthira-physio.netlify.app)**: online booking, move or cancel with a code, prices up front · [How it works](concepts/sthira-physio/case-study.md) |
+| A **restaurant, café or cloud kitchen** | “What is this dish? What should I order?” | **[The Sushi Slide](https://the-sushi-slide.netlify.app)**: a guide to the food before the menu, and ready-made first orders |
+| A **clothing, handmade or craft brand** | “Is it really what you say? Will it fit? Is it worth the price?” | **[Loomfell](https://loomfell-woolens.netlify.app)**: honest labels, feel and warmth explained, a size guide, orders on WhatsApp |
+| A **service business with quotes**: interiors, renovation, contracting, events | “What will it cost? How long will it take? Can I trust you?” | **[Lintel & Lime](https://lintel-and-lime.netlify.app)**: a cost estimator, past projects with real numbers, payments by stage |
+| A **local shop with regulars**: sweets, snacks, street food, kirana | “Are you open now? Can you cater my function? Where exactly are you?” | **[Teen Kona Chaat Bhandar](https://teen-kona-chaat.netlify.app)**: what’s on now, bulk orders on WhatsApp, directions, Hindi and English |
+| An **appointment business**: clinic, salon, coaching, studio | “When can I come? What if I can’t make it? What will it cost?” | **[Sthira Physiotherapy](https://sthira-physio.netlify.app)**: online booking, move or cancel with a code, prices up front |
 
-> All five businesses are fictional, made to show what a website can do. Their names, prices and contact details are invented, and each site says so. The customer problems are real, backed by research with sources in [`concepts/`](concepts/).
+> All five businesses are fictional, made to show what a website can do. Their names, prices and contact details are invented, and each site says so. The customer problems they solve are real.
 
 ## What every website includes
 
@@ -35,7 +35,7 @@ Tell me what kind of business you run and what your customers keep asking you. I
 
 ## How each website is made
 
-1. **Find the problem.** What stops a customer from buying, booking or visiting? Desk research, with sources and an honest rating of how much each finding can be trusted.
+1. **Find the problem.** What stops a customer from buying, booking or visiting? Research into what real customers of that kind of business struggle with.
 2. **Turn every doubt into a feature.** A table maps each customer doubt to the part of the site that answers it.
 3. **Design from the business itself.** The look comes from the product and its world: a woven border from the jacket cloth, a painted rate board from a Banaras chaat stall, an architect’s drawing sheet for an interior studio.
 4. **Build it to work on a cheap phone.** Fast on a slow connection, readable without JavaScript where possible, usable with a keyboard, and calm for people who prefer reduced motion.
@@ -56,7 +56,7 @@ Tell me what kind of business you run and what your customers keep asking you. I
 
 **Key decision:** education comes before the menu, so the dish names already make sense when guests reach them.
 
-**[Visit the website →](https://the-sushi-slide.netlify.app)** · [Case study](concepts/the-sushi-slide/case-study.md)
+**[Visit the website →](https://the-sushi-slide.netlify.app)**
 
 ---
 
@@ -76,7 +76,7 @@ Tell me what kind of business you run and what your customers keep asking you. I
 
 **Measured:** main content visible in 1.9 s on a throttled phone (down from 2.7 s after a performance pass).
 
-**[Visit the website →](https://loomfell-woolens.netlify.app)** · [Case study](concepts/loomfell-woolens/case-study.md) · [Research](concepts/loomfell-woolens/research.md)
+**[Visit the website →](https://loomfell-woolens.netlify.app)**
 
 ---
 
@@ -96,7 +96,7 @@ Tell me what kind of business you run and what your customers keep asking you. I
 
 **Measured:** main content visible in about 1 s on a throttled phone, with 2 KB of JavaScript.
 
-**[Visit the website →](https://lintel-and-lime.netlify.app)** · [Case study](concepts/lintel-and-lime/case-study.md) · [Research](concepts/lintel-and-lime/research.md)
+**[Visit the website →](https://lintel-and-lime.netlify.app)**
 
 ---
 
@@ -116,7 +116,7 @@ Tell me what kind of business you run and what your customers keep asking you. I
 
 **Measured:** main content visible in 0.9 s (Hindi) and 0.7 s (English) on a throttled phone.
 
-**[Visit the website →](https://teen-kona-chaat.netlify.app)** · [Case study](concepts/teen-kona-chaat/case-study.md) · [Research](concepts/teen-kona-chaat/research.md)
+**[Visit the website →](https://teen-kona-chaat.netlify.app)**
 
 ---
 
@@ -136,7 +136,7 @@ Tell me what kind of business you run and what your customers keep asking you. I
 
 **Measured:** main content visible in 0.65 s on a throttled phone.
 
-**[Visit the website →](https://sthira-physio.netlify.app)** · [Case study](concepts/sthira-physio/case-study.md) · [Research](concepts/sthira-physio/research.md)
+**[Visit the website →](https://sthira-physio.netlify.app)**
 
 ---
 
