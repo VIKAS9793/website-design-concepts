@@ -1,22 +1,31 @@
 # Website design concepts
 
-**Five businesses. Five real problems. Five websites designed to solve them.**
+**A website should bring you customers, not just look good.**
 
-Each concept below is a working website for a fictional business. None of them start from a template or a look: each starts from a problem the business owner actually has, found through desk research, and every section of the site exists to answer a doubt that stops a customer from buying, booking or visiting.
+Each website below was designed for a different kind of business, starting from the problem that stops its customers from buying, booking or visiting. Find the one closest to your business and open it on your phone.
 
-| | Business | The problem it solves | Built with | See it |
-|---|---|---|---|---|
-| 1 | **The Sushi Slide**<br>Restaurant | Guests don’t know nigiri from maki, so they don’t know what to order, or whether to come at all | Astro, Tailwind | **[Visit site](https://the-sushi-slide.netlify.app)** · [Case study](concepts/the-sushi-slide/case-study.md) |
-| 2 | **Loomfell**<br>Hand-woven wool jackets | Shoppers can’t feel the cloth, judge warmth or trust the fit online | Astro | **[Visit site](https://loomfell-woolens.netlify.app)** · [Case study](concepts/loomfell-woolens/case-study.md) |
-| 3 | **Lintel & Lime**<br>Interior design studio | Homeowners can’t tell what a room will cost or how long it will take | Astro | **[Visit site](https://lintel-and-lime.netlify.app)** · [Case study](concepts/lintel-and-lime/case-study.md) |
-| 4 | **Teen Kona Chaat Bhandar**<br>Banaras street-food shop | Bulk orders lost in the evening rush, visitors arriving at the wrong hour, the shop hard to find | Astro, Hindi and English | **[Visit site](https://teen-kona-chaat.netlify.app)** · [Case study](concepts/teen-kona-chaat/case-study.md) |
-| 5 | **Sthira Physiotherapy**<br>Physio clinic | Missed appointments, unknown total cost, home exercises abandoned | Next.js, React, TypeScript, Tailwind | **[Visit site](https://sthira-physio.netlify.app)** · [Case study](concepts/sthira-physio/case-study.md) |
+## Find a business like yours
 
-> **Start with the websites.** Each one is live: open it on your phone and judge how it explains the business to its own customers. Every screenshot below opens the live site.
->
-> All five businesses are fictional, made for this portfolio. Their names, products, prices and contact details are invented, and each site says so. The problems are real: the research behind four of them, with sources, is in [`concepts/`](concepts/).
+| If you run… | Your customers often ask… | See this website |
+|---|---|---|
+| A **restaurant, café or cloud kitchen** | “What is this dish? What should I order?” | **[The Sushi Slide](https://the-sushi-slide.netlify.app)**: a guide to the food before the menu, and ready-made first orders · [How it works](concepts/the-sushi-slide/case-study.md) |
+| A **clothing, handmade or craft brand** | “Is it really what you say? Will it fit? Is it worth the price?” | **[Loomfell](https://loomfell-woolens.netlify.app)**: honest labels, feel and warmth explained, a size guide, orders on WhatsApp · [How it works](concepts/loomfell-woolens/case-study.md) |
+| A **service business with quotes**: interiors, renovation, contracting, events | “What will it cost? How long will it take? Can I trust you?” | **[Lintel & Lime](https://lintel-and-lime.netlify.app)**: a cost estimator, past projects with real numbers, payments by stage · [How it works](concepts/lintel-and-lime/case-study.md) |
+| A **local shop with regulars**: sweets, snacks, street food, kirana | “Are you open now? Can you cater my function? Where exactly are you?” | **[Teen Kona Chaat Bhandar](https://teen-kona-chaat.netlify.app)**: what’s on now, bulk orders on WhatsApp, directions, Hindi and English · [How it works](concepts/teen-kona-chaat/case-study.md) |
+| An **appointment business**: clinic, salon, coaching, studio | “When can I come? What if I can’t make it? What will it cost?” | **[Sthira Physiotherapy](https://sthira-physio.netlify.app)**: online booking, move or cancel with a code, prices up front · [How it works](concepts/sthira-physio/case-study.md) |
 
-## How each concept is made
+> All five businesses are fictional, made to show what a website can do. Their names, prices and contact details are invented, and each site says so. The customer problems are real, backed by research with sources in [`concepts/`](concepts/).
+
+## What every website includes
+
+- **Built around your customers’ questions**, so they decide faster and contact you ready to buy or book.
+- **Fast on any phone**, even on a weak connection: most of these load their main content in about a second.
+- **Orders, bookings and enquiries on WhatsApp**, with the message already written. No long forms.
+- **Your look, not a template**: the design comes from your products, your shop and your city.
+- **Easy to update**: your prices, menu, hours and photos sit in one place.
+- **In your customers’ language**, including Hindi and English.
+
+## How each website is made
 
 1. **Find the problem.** What stops a customer from buying, booking or visiting? Desk research, with sources and an honest rating of how much each finding can be trusted.
 2. **Turn every doubt into a feature.** A table maps each customer doubt to the part of the site that answers it.
@@ -123,7 +132,7 @@ Each concept below is a working website for a fictional business. None of them s
 
 ---
 
-## The stack follows the problem
+## For technical readers: the stack follows the problem
 
 | When the site is mainly… | Chosen | Why |
 |---|---|---|
