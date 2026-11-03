@@ -4,6 +4,8 @@
 
 Each website below was designed for a different kind of business, starting from the problem that stops its customers from buying, booking or visiting. Find the one closest to your business and open it on your phone.
 
+**Want one for your business?** [Email vikassahani17@gmail.com](mailto:vikassahani17@gmail.com?subject=Website%20for%20my%20business&body=Hi%20Vikas%2C%0A%0AI%20run%20a%20%28type%20of%20business%29%20in%20%28city%29%20and%20saw%20your%20website%20concepts.%0A%0AWhat%20I%20need%20help%20with%3A%0A%0AThanks%2C%0A)
+
 ## Find a business like yours
 
 | If you run… | Your customers often ask… | See this website |
@@ -24,6 +26,12 @@ Each website below was designed for a different kind of business, starting from 
 - **Your look, not a template**: the design comes from your products, your shop and your city.
 - **Easy to update**: your prices, menu, hours and photos sit in one place.
 - **In your customers’ language**, including Hindi and English.
+
+## Want a website like this for your business?
+
+Tell me what kind of business you run and what your customers keep asking you. I’ll reply with the problems your website should solve first.
+
+**[Email vikassahani17@gmail.com](mailto:vikassahani17@gmail.com?subject=Website%20for%20my%20business&body=Hi%20Vikas%2C%0A%0AI%20run%20a%20%28type%20of%20business%29%20in%20%28city%29%20and%20saw%20your%20website%20concepts.%0A%0AWhat%20I%20need%20help%20with%3A%0A%0AThanks%2C%0A)**
 
 ## How each website is made
 
@@ -148,3 +156,7 @@ Each website below was designed for a different kind of business, starting from 
 - **Accessible:** keyboard-friendly controls, visible focus, alt text on every image, reduced motion respected.
 - **One action, no forms:** orders and enquiries end in a pre-written WhatsApp message or a booking, never a long form.
 - **Ready to hand over:** each site keeps its business details in one or two data files, so it can be adapted for a real owner without touching the design.
+
+---
+
+**Want a website like these for your business?** [Email vikassahani17@gmail.com](mailto:vikassahani17@gmail.com?subject=Website%20for%20my%20business&body=Hi%20Vikas%2C%0A%0AI%20run%20a%20%28type%20of%20business%29%20in%20%28city%29%20and%20saw%20your%20website%20concepts.%0A%0AWhat%20I%20need%20help%20with%3A%0A%0AThanks%2C%0A)
